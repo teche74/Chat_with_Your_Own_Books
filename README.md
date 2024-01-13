@@ -24,6 +24,9 @@
 
 ![WhatsApp Image 2023-10-02 at 06 41 42_e07c950b](https://github.com/teche74/Chat_with_Your_Own_Books/assets/129526047/ea474a49-3758-4321-bdbb-325b52c6de28)
 
+
+check app at https://chatwithyourownbooks-j4oxdmfvq9wt86taesobck.streamlit.app/
+
 ## Getting Started
 
 Follow the steps below to set up and run this project locally on your machine.
